@@ -1,0 +1,11 @@
+<!-- SECURITY WARNING (PoC): Secret is stored in plaintext in app local storage. This is INSECURE and for demo only.
+This PoC uses ZERO ENCRYPTION. Only Windows Hello signature verification gates access. -->
+<Application
+    x:Class="HelloSealUwp.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HelloSealUwp">
+    <Application.Resources>
+
+    </Application.Resources>
+</Application>
